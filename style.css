@@ -162,5 +162,6 @@
 }
 
 .img-card-container img {
-    width: 100%;
+    width: 180px;
+    height: 180px;
 }
